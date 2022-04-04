@@ -1,1 +1,1 @@
-My ridirection readme. 
+My redirection readme. 
